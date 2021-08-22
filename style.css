@@ -1,0 +1,17 @@
+*{
+    margin: 0 0 0 0;
+    padding: 0px 2px 6px 2px;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    width: 50vw;
+    background-color: rgba(129, 131, 44, 0.336) ;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, 0%);
+}
+.heading{
+    background-color: burlywood;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
